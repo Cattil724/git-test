@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("posh test");
         System.out.println("poll test");
+        System.out.println("gitee test");
     }
 }
